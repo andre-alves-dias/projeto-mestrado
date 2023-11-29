@@ -8,3 +8,6 @@ Na condução da pesquisa, diferentes abordagens de aprendizado de máquina fora
 
 **Palavras-chaves**: Inteligência Artificial, *turnover*, *attrition*, aprendizado de máquina, insatisfação de funcionário. 
 
+## Metodologia Proposta
+
+<img src="https://raw.githubusercontent.com/andre-alves-dias/projeto-mestrado/main/img/Fluxograma.png" />
