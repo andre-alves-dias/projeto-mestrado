@@ -10,4 +10,5 @@ Na condução da pesquisa, diferentes abordagens de aprendizado de máquina fora
 
 ## Metodologia Proposta
 
-[Fluxograma da proposta](https://github.com/andre-alves-dias/projeto-mestrado/blob/e2b0b3cd0d0aa9afd7b1dc138b07e27f5e6b6dee/img/Fluxograma.png)
+[![Fluxograma](img/Fluxograma.png)]
+
