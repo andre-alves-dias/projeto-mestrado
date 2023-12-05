@@ -6,7 +6,9 @@ Para avaliar essas abordagens, foram selecionadas quatro bases de dados pública
 
 Na condução da pesquisa, diferentes abordagens de aprendizado de máquina foram aplicadas a cada uma das bases, com o objetivo de verificar a viabilidade de identificar a insatisfação por meio da I.A. As técnicas utilizadas incluíram detecção de anomalias ou novidades, classificadores e conjuntos de classificadores otimizados. Os resultados foram quantificados, revelando pontuações promissoras, com desempenhos superiores a 90\%. Esses resultados destacam a eficácia geral do aprendizado de máquina na identificação da insatisfação dos funcionários, demonstrando seu potencial para aplicações práticas no ambiente de recursos humanos.
 
-Confira um vídeo de apresentação da proposta do mestrado em https://youtu.be/WhEJ1LQ_ds0
+Confira um vídeo de apresentação da proposta do mestrado em:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WhEJ1LQ_ds0/0.jpg)](https://www.youtube.com/watch?v=WhEJ1LQ_ds0)
 
 **Palavras-chaves**: Inteligência Artificial, *turnover*, *attrition*, aprendizado de máquina, insatisfação de funcionário. 
 
