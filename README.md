@@ -10,5 +10,5 @@ Na condução da pesquisa, diferentes abordagens de aprendizado de máquina fora
 
 ## Metodologia Proposta
 
-[![Fluxograma](img/Fluxograma.png)]
+![Fluxograma](img/Fluxograma.png)
 
