@@ -22,4 +22,10 @@ Confira um vídeo de apresentação da proposta do mestrado em:
 
 ## Artigo Publicado
 
-https://doi.org/10.1590/1678-4324-2022220096
+[![Robotic Process Automation and Machine Learning: a Systematic Review](img/CapaArtigo.png)](https://doi.org/10.1590/1678-4324-2022220096)
+
+## Análise Desenvolvida
+
+[Código Fonte](Proposta_Detecção_Turnover_Mestrado.ipynb)
+
+[![Abrir Colab](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/andre-alves-dias/projeto-mestrado/blob/main/Proposta_Detec%C3%A7%C3%A3o_Turnover_Mestrado.ipynb)
