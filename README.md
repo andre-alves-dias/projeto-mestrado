@@ -16,3 +16,10 @@ Confira um vídeo de apresentação da proposta do mestrado em:
 
 ![Fluxograma](img/Fluxograma.png)
 
+## Dissertação
+
+[![Automação Inteligente de Processos Robóticos para a Gestão Pública - André Luiz Alves Dias](img/CapaDissertacao.png)](Dissertacao_Andre-Dias_v02.pdf)
+
+## Artigo Publicado
+
+https://doi.org/10.1590/1678-4324-2022220096
